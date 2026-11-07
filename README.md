@@ -2,7 +2,7 @@
 
 本仓库仅提供 Auto-MoeMate 最新正式安装包及 Ed25519 签名更新文件，源码保持私有。
 
-当前版本：[v0.9.91](https://github.com/yfnb8735-coder/Auto-MoeMate-Updates/releases/tag/v0.9.91)。
+当前版本：[v0.9.92](https://github.com/yfnb8735-coder/Auto-MoeMate-Updates/releases/tag/v0.9.92)。
 
 客户端通过“更新与导览 → 更新项目”检查并确认更新。
 
